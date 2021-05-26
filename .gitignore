@@ -1,0 +1,5 @@
+﻿Projekt - macierze/Debug
+*.suo
+Debug
+*.db
+*.opendb
